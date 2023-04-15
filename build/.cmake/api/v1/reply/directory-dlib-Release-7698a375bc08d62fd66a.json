@@ -1,0 +1,153 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"dlib/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 922,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 928,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 948,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 951,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 956,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 969,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 977,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"dlib/Release/dlib19.24.99_release_32bit_msvc1935.lib"
+			],
+			"targetId" : "dlib::@d59d9d6a55c67f754d23",
+			"targetIndex" : 3,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/dlib",
+			"paths" : 
+			[
+				{
+					"from" : "dlib",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "include/dlib",
+			"paths" : 
+			[
+				"C:/Users/HP/Downloads/Files/build/dlib/config.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "include/dlib",
+			"paths" : 
+			[
+				"C:/Users/HP/Downloads/Files/build/dlib/revision.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/dlib",
+			"exportName" : "dlib",
+			"exportTargets" : 
+			[
+				{
+					"id" : "dlib::@d59d9d6a55c67f754d23",
+					"index" : 3
+				}
+			],
+			"paths" : 
+			[
+				"dlib/CMakeFiles/Export/531253a20d02778163542f6aeae55b41/dlib.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/dlib",
+			"paths" : 
+			[
+				"C:/Users/HP/Downloads/Files/build/dlib/config/dlibConfig.cmake",
+				"C:/Users/HP/Downloads/Files/build/dlib/config/dlibConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"C:/Users/HP/Downloads/Files/build/dlib/dlib-1.pc"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "dlib",
+		"source" : "dlib"
+	}
+}

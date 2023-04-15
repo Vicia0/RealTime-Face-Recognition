@@ -1,0 +1,8 @@
+C:/Users/HP/Downloads/Files/build/CMakeFiles/PACKAGE.dir
+C:/Users/HP/Downloads/Files/build/CMakeFiles/INSTALL.dir
+C:/Users/HP/Downloads/Files/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/HP/Downloads/Files/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/HP/Downloads/Files/build/dlib/CMakeFiles/dlib.dir
+C:/Users/HP/Downloads/Files/build/dlib/CMakeFiles/PACKAGE.dir
+C:/Users/HP/Downloads/Files/build/dlib/CMakeFiles/INSTALL.dir
+C:/Users/HP/Downloads/Files/build/dlib/CMakeFiles/ALL_BUILD.dir
